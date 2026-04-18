@@ -38,15 +38,6 @@ Based on MBTI theory, 16 tech profiles:
 
 [Take the Test →](https://qubittool.com/quiz/personality16) | [View All Types →](https://qubittool.com/quiz/personality16/types)
 
-## About QubitTool
-
-QubitTool is a free online toolkit with 100+ developer tools and fun personality quizzes. All tools run entirely in your browser — your data never leaves your device.
-
-- 🌐 [QubitTool.com](https://qubittool.com)
-- 🛠️ [Developer Tools](https://qubittool.com/en/tools)
-- 📚 [Tech Blog](https://qubittool.com/en/blog)
-- 📖 [Glossary](https://qubittool.com/en/glossary)
-
 ## License
 
 MIT © 2025-2026 QubitTool
