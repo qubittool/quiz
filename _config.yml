@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "QubitTool Quiz - Fun Personality Tests & AI Quizzes"
-description: "Discover your personality type with our fun quizzes. SBTI 27 Personality Types, 16 Tech Personality Test, AI Mental Age, Humanity Index & Workplace Animal Persona."
+title: "QubitTool Quiz - 趣味人格测试与 AI 测验"
+description: "探索你的人格类型，趣味科学测试合集。SBTI 27型人格测试、16型技术人格、AI 心理年龄、人类指数与职场动物人格。免费、即时出结果、无需登录。"
 baseurl: /quiz
 url: "https://qubittool.github.io"
 author: "QubitTool"

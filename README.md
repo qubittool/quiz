@@ -1,43 +1,43 @@
-# QubitTool Quiz — Fun Personality Tests & AI Quizzes
+# QubitTool Quiz — 趣味人格测试与 AI 测验
 
-> Discover your personality type with our collection of fun, science-inspired quizzes. Free, instant results, no login required.
+> 探索你的人格类型，趣味科学测试合集。免费、即时出结果、无需登录。
 
-🌐 **[Take a Quiz Now →](https://qubittool.com/quiz)**
+🌐 **[立即开始测试 →](https://qubittool.com/quiz)**
 
-## Available Quizzes
+## 可用测试
 
-| Quiz | Questions | Types | Description |
-|------|-----------|-------|-------------|
-| [🧠 SBTI Personality Test](https://qubittool.com/quiz/sbti) | 32 | 27 | Silly Behavioral Type Indicator — our most comprehensive test |
-| [🧬 16 Tech Personality](https://qubittool.com/quiz/personality16) | 60 | 16 | MBTI-inspired tech personality profiling |
-| [🧒 AI Mental Age](https://qubittool.com/quiz/mental-age) | 10 | 8 | How old is your mind? |
-| [🤖 Humanity & Aliveness](https://qubittool.com/quiz/humanity) | 15 | 8 | Are you still human in the AI age? |
-| [🐾 Workplace Animal](https://qubittool.com/quiz/workplace-animal) | 15 | 8 | Which office animal are you? |
+| 测试 | 题数 | 类型数 | 简介 |
+|------|------|--------|------|
+| [🧠 SBTI 人格测试](https://qubittool.com/quiz/sbti) | 32 | 27 | Silly Behavioral Type Indicator — 最全面的趣味人格测试 |
+| [🧬 16型技术人格](https://qubittool.com/quiz/personality16) | 60 | 16 | 基于 MBTI 理论的技术人格画像 |
+| [🧒 AI 心理年龄](https://qubittool.com/quiz/mental-age) | 10 | 8 | 你的心理年龄几岁？ |
+| [🤖 人类指数](https://qubittool.com/quiz/humanity) | 15 | 8 | AI 时代，你还有多少"人味儿"？ |
+| [🐾 职场动物](https://qubittool.com/quiz/workplace-animal) | 15 | 8 | 你是办公室里的哪种动物？ |
 
-## Features
+## 特色
 
-- 🎯 **Science-Inspired** — Built on established personality psychology frameworks
-- ⚡ **Quick & Fun** — Most quizzes take 2-10 minutes
-- 🔒 **100% Private** — All processing in your browser, zero data collection
-- 📱 **Shareable Results** — Beautiful result cards for social media
-- 🌍 **Multilingual** — Available in English and Chinese
+- 🎯 **科学启发** — 基于成熟的人格心理学框架设计
+- ⚡ **快速有趣** — 大多数测试仅需 2-10 分钟
+- 🔒 **完全隐私** — 所有计算在浏览器本地完成，零数据采集
+- 📱 **可分享结果** — 精美的结果卡片，适合社交分享
+- 🌍 **多语言** — 支持中文和英文
 
-## SBTI Personality Types
+## SBTI 人格类型
 
-The SBTI test features 27 unique personality types:
+SBTI 测试包含 27 种独特人格类型：
 
 `CTRL` · `ATM-er` · `Dior-s` · `BOSS` · `THAN-K` · `OH-NO` · `GOGO` · `SEXY` · `LOVE-R` · `MUM` · `FAKE` · `OJBK` · `MALO` · `JOKE-R` · `WOC!` · `THIN-K` · `SHIT` · `ZZZZ` · `POOR` · `MONK` · `IMSB` · `SOLO` · `FUCK` · `DEAD` · `IMFW` · `HHHH` · `DRUNK`
 
-[Take the SBTI Test →](https://qubittool.com/quiz/sbti) | [View All Types →](https://qubittool.com/quiz/sbti/types)
+[参加 SBTI 测试 →](https://qubittool.com/quiz/sbti) | [查看全部类型 →](https://qubittool.com/quiz/sbti/types)
 
-## 16 Tech Personality Types
+## 16型技术人格
 
-Based on MBTI theory, 16 tech profiles:
+基于 MBTI 理论的 16 种技术人格画像：
 
 `ISTJ` · `ISFJ` · `INFJ` · `INTJ` · `ISTP` · `ISFP` · `INFP` · `INTP` · `ESTP` · `ESFP` · `ENFP` · `ENTP` · `ESTJ` · `ESFJ` · `ENFJ` · `ENTJ`
 
-[Take the Test →](https://qubittool.com/quiz/personality16) | [View All Types →](https://qubittool.com/quiz/personality16/types)
+[参加测试 →](https://qubittool.com/quiz/personality16) | [查看全部类型 →](https://qubittool.com/quiz/personality16/types)
 
-## License
+## 许可证
 
 MIT © QubitTool
