@@ -40,4 +40,4 @@ Based on MBTI theory, 16 tech profiles:
 
 ## License
 
-MIT © 2025-2026 QubitTool
+MIT © QubitTool
