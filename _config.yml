@@ -5,6 +5,10 @@ baseurl: /quiz
 url: "https://qubittool.github.io"
 author: "QubitTool"
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 exclude:
   - LICENSE
   - .gitignore
