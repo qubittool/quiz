@@ -125,24 +125,6 @@
     .header-right {
       display: flex; align-items: center; gap: 16px;
     }
-    .lang-switch {
-      display: inline-flex; align-items: center;
-      background: rgba(255,255,255,0.06);
-      border: 1px solid var(--border);
-      border-radius: 8px; overflow: hidden;
-    }
-    .lang-switch a {
-      display: inline-flex; align-items: center; justify-content: center;
-      padding: 6px 14px; font-size: 0.82rem; font-weight: 600;
-      color: var(--text-muted); transition: all 0.2s;
-    }
-    .lang-switch a:hover { color: var(--text-heading); background: rgba(255,255,255,0.06); }
-    .lang-switch a.active {
-      color: var(--primary-light); background: rgba(139,92,246,0.15);
-    }
-    .lang-divider {
-      width: 1px; height: 16px; background: var(--border);
-    }
     .header-cta {
       display: inline-flex; align-items: center; gap: 8px;
       background: var(--primary); color: #fff; padding: 8px 20px;
@@ -394,7 +376,6 @@
       .blog-grid { grid-template-columns: 1fr; }
       .quiz-card-stats { gap: 12px; }
       .header-cta { padding: 6px 14px; font-size: 0.82rem; }
-      .lang-switch a { padding: 5px 10px; font-size: 0.75rem; }
     }
     @media (max-width: 480px) {
       .quiz-grid { grid-template-columns: 1fr; }
@@ -413,20 +394,10 @@
   <header class="site-header">
     <div class="header-inner">
       <div class="header-left">
-        <a href="https://qubittool.com" class="logo">QubitTool</a>
+        <a href="https://qubittool.com/quiz" class="logo">QubitTool</a>
         <span class="quiz-badge">Quiz</span>
       </div>
       <div class="header-right">
-        <div class="lang-switch">
-          {% assign page_slug = page.url | remove: "/" | remove: ".html" %}
-          {% if page_slug == "" or page_slug == "index" %}
-            <a href="https://qubittool.com/zh/quiz">中文</a>
-          {% else %}
-            <a href="https://qubittool.com/zh/quiz/{{ page_slug }}">中文</a>
-          {% endif %}
-          <span class="lang-divider"></span>
-          <a class="active" href="#">EN</a>
-        </div>
         <a href="https://qubittool.com/quiz" class="header-cta">Explore Quizzes &rarr;</a>
       </div>
     </div>
@@ -450,9 +421,9 @@
     <div class="container">
       <div class="footer-links">
         <a href="https://qubittool.com">Website</a>
-        <a href="https://github.com/qubittool/qubittool">GitHub</a>
-        <a href="https://qubittool.com/quiz">Quiz on Main Site</a>
-        <a href="https://github.com/qubittool/qubittool/discussions">Discussions</a>
+        <a href="https://github.com/qubittool/quiz">GitHub</a>
+        <a href="https://qubittool.com/zh/quiz">Quiz on Main Site</a>
+        <a href="https://github.com/qubittool/quiz/discussions">Discussions</a>
       </div>
       <p>&copy; 2025-2026 QubitTool. Fun personality quizzes &amp; AI tests.</p>
     </div>
